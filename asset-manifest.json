@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mosnters/static/css/main.04adfb89.css",
+    "main.js": "/mosnters/static/js/main.187ed580.js",
+    "static/js/787.59db2fe7.chunk.js": "/mosnters/static/js/787.59db2fe7.chunk.js",
+    "index.html": "/mosnters/index.html",
+    "main.04adfb89.css.map": "/mosnters/static/css/main.04adfb89.css.map",
+    "main.187ed580.js.map": "/mosnters/static/js/main.187ed580.js.map",
+    "787.59db2fe7.chunk.js.map": "/mosnters/static/js/787.59db2fe7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04adfb89.css",
+    "static/js/main.187ed580.js"
+  ]
+}
